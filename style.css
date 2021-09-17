@@ -1,9 +1,23 @@
-h1{
-  text-decoration: underline;
+header {
+  background-color: blanchedalmond ;
+  padding: 10px ;
+  border: thick solid black ;
+}
+
+h1 {
+  text-decoration: underline ;
+  background-color: transparent;
 }
 
 .heading {
   margin:4px ;
+}
+.publishDate {
+  margin-bottom:0px ;
+}
+
+h2 {
+  margin-top:0;
 }
 
 q {
@@ -12,5 +26,10 @@ q {
 }
 
 footer {
-  position:
+  background-color: #999 ;
+}
+
+.footerContent {
+  margin:0px ;
+  text-align:center ;
 }
